@@ -1,0 +1,60 @@
+{
+  "basics": {
+    "name": "BALA SUBRAMANIAM V",
+    "email": "promech8888@gmail.com",
+    "phone": "(91)909-5270-911",
+    "degree": "BE mechanical engineering",
+    
+    "summary": "aspiring full stck developer looking for oppurtunity to utlize my skills ",
+    "location": {
+      "address": "11-39A vadivachi amman kovil east street kulasekaranputhoor",
+      "postalCode": "629302",
+      "city": "nagercoil",
+      "countryCode": "INDIA",
+      "region": "TAMIL NADU"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Balasubramaniam V",
+        "url": "www.linkedin.com/in/balasubramaniam-v-9a422b264"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "FRANCIS XAVIER ENGINEERING COLLEGE",
+      "area": "MECHANICAL ENGINEERING",
+      "studyType": "REGULAR",
+      "startDate": "2010-10-12",
+      "endDate": "2014-04-14",
+      "gpa": "7.08",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages ",
+      "level": "BEGINER",
+      "keywords": [
+        " JAVASCRIPT , HTML , CSS , NODE , REACT"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "ENGLISH , TAMIL ",
+      "fluency": "INTERMEDIATE"
+    }
+  ],
+  "interests": [
+    {
+      "name": "MUSIC,FITNESS,EXPLORING",
+      "keywords": [
+        "LISTENING TO SONGS, EXPLORING NEW THINGS,"
+      ]
+    }
+  ]
+}
